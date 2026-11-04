@@ -1,0 +1,1046 @@
+[
+ {
+  "id": "2008-PRES",
+  "year": 2008,
+  "office": "PRES",
+  "officeLabel": "President",
+  "date": "2008-11-04",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 8077795,
+  "countiesWon": {
+   "REP": 226,
+   "DEM": 28
+  },
+  "statewide": [
+   {
+    "id": "2008-PRES-mccain",
+    "name": "John McCain / Sarah Palin",
+    "party": "REP",
+    "votes": 4479328,
+    "pct": 55.45
+   },
+   {
+    "id": "2008-PRES-obama",
+    "name": "Barack Obama / Joe Biden",
+    "party": "DEM",
+    "votes": 3528633,
+    "pct": 43.68
+   },
+   {
+    "id": "2008-PRES-barr",
+    "name": "Bob Barr / Wayne A. Root",
+    "party": "LIB",
+    "votes": 56116,
+    "pct": 0.69
+   },
+   {
+    "id": "2008-PRES-nader",
+    "name": "Ralph Nader / Matt Gonzalez",
+    "party": "WRI",
+    "votes": 5751,
+    "pct": 0.07
+   },
+   {
+    "id": "2008-PRES-baldwin",
+    "name": "Chuck Baldwin / Darrell L. Castle",
+    "party": "WRI",
+    "votes": 5708,
+    "pct": 0.07
+   },
+   {
+    "id": "2008-PRES-mckinney",
+    "name": "Cynthia McKinney / Rosa Clemente",
+    "party": "WRI",
+    "votes": 909,
+    "pct": 0.01
+   },
+   {
+    "id": "2008-PRES-keyes",
+    "name": "Alan Keyes / Marvin Sprouse, Jr.",
+    "party": "WRI",
+    "votes": 895,
+    "pct": 0.01
+   },
+   {
+    "id": "2008-PRES-hill",
+    "name": "Thaddaus Hill / Gordon F. Bailey",
+    "party": "WRI",
+    "votes": 216,
+    "pct": 0.0
+   },
+   {
+    "id": "2008-PRES-moore",
+    "name": "Brian Moore / Stewart A. Alexander",
+    "party": "WRI",
+    "votes": 135,
+    "pct": 0.0
+   },
+   {
+    "id": "2008-PRES-allen",
+    "name": "Jonathan Allen / Jeffrey D. Stath",
+    "party": "WRI",
+    "votes": 104,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2008-SEN",
+  "year": 2008,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2008-11-04",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 7912075,
+  "countiesWon": {
+   "REP": 223,
+   "DEM": 31
+  },
+  "statewide": [
+   {
+    "id": "2008-SEN-cornyn",
+    "name": "John Cornyn",
+    "party": "REP",
+    "votes": 4337469,
+    "pct": 54.82
+   },
+   {
+    "id": "2008-SEN-noriega",
+    "name": "Richard J. (Rick) Noriega",
+    "party": "DEM",
+    "votes": 3389365,
+    "pct": 42.84
+   },
+   {
+    "id": "2008-SEN-schick",
+    "name": "Yvonne Adams Schick",
+    "party": "LIB",
+    "votes": 185241,
+    "pct": 2.34
+   }
+  ]
+ },
+ {
+  "id": "2010-GOV",
+  "year": 2010,
+  "office": "GOV",
+  "officeLabel": "Governor",
+  "date": "2010-11-02",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 4979870,
+  "countiesWon": {
+   "REP": 226,
+   "DEM": 28
+  },
+  "statewide": [
+   {
+    "id": "2010-GOV-perry",
+    "name": "Rick Perry",
+    "party": "REP",
+    "votes": 2737481,
+    "pct": 54.97
+   },
+   {
+    "id": "2010-GOV-white",
+    "name": "Bill White",
+    "party": "DEM",
+    "votes": 2106395,
+    "pct": 42.3
+   },
+   {
+    "id": "2010-GOV-glass",
+    "name": "Kathie Glass",
+    "party": "LIB",
+    "votes": 109211,
+    "pct": 2.19
+   },
+   {
+    "id": "2010-GOV-shafto",
+    "name": "Deb Shafto",
+    "party": "GRN",
+    "votes": 19516,
+    "pct": 0.39
+   },
+   {
+    "id": "2010-GOV-barron",
+    "name": "Andy Barron",
+    "party": "WRI",
+    "votes": 7267,
+    "pct": 0.15
+   }
+  ]
+ },
+ {
+  "id": "2012-PRES",
+  "year": 2012,
+  "office": "PRES",
+  "officeLabel": "President",
+  "date": "2012-11-06",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 7993851,
+  "countiesWon": {
+   "REP": 228,
+   "DEM": 26
+  },
+  "statewide": [
+   {
+    "id": "2012-PRES-romney",
+    "name": "Mitt Romney / Paul Ryan",
+    "party": "REP",
+    "votes": 4569843,
+    "pct": 57.17
+   },
+   {
+    "id": "2012-PRES-obama",
+    "name": "Barack Obama / Joe Biden",
+    "party": "DEM",
+    "votes": 3308124,
+    "pct": 41.38
+   },
+   {
+    "id": "2012-PRES-johnson",
+    "name": "Gary Johnson / Jim Gray",
+    "party": "LIB",
+    "votes": 88580,
+    "pct": 1.11
+   },
+   {
+    "id": "2012-PRES-stein",
+    "name": "Jill Stein / Cheri Honkala",
+    "party": "GRN",
+    "votes": 24657,
+    "pct": 0.31
+   },
+   {
+    "id": "2012-PRES-goode",
+    "name": "Virgil Goode / Jim Clymer",
+    "party": "WRI",
+    "votes": 1287,
+    "pct": 0.02
+   },
+   {
+    "id": "2012-PRES-anderson",
+    "name": "Rocky Anderson / Luis J. Rodriguez",
+    "party": "WRI",
+    "votes": 426,
+    "pct": 0.01
+   },
+   {
+    "id": "2012-PRES-hoefling",
+    "name": "Tom Hoefling / Jonathan D. Ellis",
+    "party": "WRI",
+    "votes": 374,
+    "pct": 0.0
+   },
+   {
+    "id": "2012-PRES-ayers",
+    "name": "Avery Ayers / Alejandrina Cabrera",
+    "party": "WRI",
+    "votes": 209,
+    "pct": 0.0
+   },
+   {
+    "id": "2012-PRES-alexander",
+    "name": "Stewart Alexander / Alex Mendoza",
+    "party": "WRI",
+    "votes": 162,
+    "pct": 0.0
+   },
+   {
+    "id": "2012-PRES-hill",
+    "name": "Thaddaus Hill / Gordon F. Bailey",
+    "party": "WRI",
+    "votes": 102,
+    "pct": 0.0
+   },
+   {
+    "id": "2012-PRES-barnett",
+    "name": "Andre N. Barnett / Kenneth R. Cross",
+    "party": "WRI",
+    "votes": 87,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2012-SEN",
+  "year": 2012,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2012-11-06",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 7864822,
+  "countiesWon": {
+   "REP": 229,
+   "DEM": 25
+  },
+  "statewide": [
+   {
+    "id": "2012-SEN-cruz",
+    "name": "Ted Cruz",
+    "party": "REP",
+    "votes": 4440137,
+    "pct": 56.46
+   },
+   {
+    "id": "2012-SEN-sadler",
+    "name": "Paul Sadler",
+    "party": "DEM",
+    "votes": 3194927,
+    "pct": 40.62
+   },
+   {
+    "id": "2012-SEN-myers",
+    "name": "John Jay Myers",
+    "party": "LIB",
+    "votes": 162354,
+    "pct": 2.06
+   },
+   {
+    "id": "2012-SEN-collins",
+    "name": "David B. Collins",
+    "party": "GRN",
+    "votes": 67404,
+    "pct": 0.86
+   }
+  ]
+ },
+ {
+  "id": "2014-GOV",
+  "year": 2014,
+  "office": "GOV",
+  "officeLabel": "Governor",
+  "date": "2014-11-04",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 4718268,
+  "countiesWon": {
+   "REP": 235,
+   "DEM": 19
+  },
+  "statewide": [
+   {
+    "id": "2014-GOV-abbott",
+    "name": "Greg Abbott",
+    "party": "REP",
+    "votes": 2796547,
+    "pct": 59.27
+   },
+   {
+    "id": "2014-GOV-davis",
+    "name": "Wendy R. Davis",
+    "party": "DEM",
+    "votes": 1835596,
+    "pct": 38.9
+   },
+   {
+    "id": "2014-GOV-glass",
+    "name": "Kathie Glass",
+    "party": "LIB",
+    "votes": 66543,
+    "pct": 1.41
+   },
+   {
+    "id": "2014-GOV-parmer",
+    "name": "Brandon Parmer",
+    "party": "GRN",
+    "votes": 18520,
+    "pct": 0.39
+   },
+   {
+    "id": "2014-GOV-pavitt",
+    "name": "Sarah M. Pavitt",
+    "party": "WRI",
+    "votes": 1062,
+    "pct": 0.02
+   }
+  ]
+ },
+ {
+  "id": "2014-SEN",
+  "year": 2014,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2014-11-04",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 4648358,
+  "countiesWon": {
+   "REP": 236,
+   "DEM": 18
+  },
+  "statewide": [
+   {
+    "id": "2014-SEN-cornyn",
+    "name": "John Cornyn",
+    "party": "REP",
+    "votes": 2861531,
+    "pct": 61.56
+   },
+   {
+    "id": "2014-SEN-alameel",
+    "name": "David M. Alameel",
+    "party": "DEM",
+    "votes": 1597387,
+    "pct": 34.36
+   },
+   {
+    "id": "2014-SEN-paddock",
+    "name": "Rebecca Paddock",
+    "party": "LIB",
+    "votes": 133751,
+    "pct": 2.88
+   },
+   {
+    "id": "2014-SEN-sanchez",
+    "name": "Emily \"Spicybrown\" Sanchez",
+    "party": "GRN",
+    "votes": 54701,
+    "pct": 1.18
+   },
+   {
+    "id": "2014-SEN-tahiro",
+    "name": "Mohammed Tahiro",
+    "party": "WRI",
+    "votes": 988,
+    "pct": 0.02
+   }
+  ]
+ },
+ {
+  "id": "2016-PRES",
+  "year": 2016,
+  "office": "PRES",
+  "officeLabel": "President",
+  "date": "2016-11-08",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 8969226,
+  "countiesWon": {
+   "REP": 227,
+   "DEM": 27
+  },
+  "statewide": [
+   {
+    "id": "2016-PRES-trump",
+    "name": "Donald J. Trump / Mike Pence",
+    "party": "REP",
+    "votes": 4685047,
+    "pct": 52.23
+   },
+   {
+    "id": "2016-PRES-clinton",
+    "name": "Hillary Clinton / Tim Kaine",
+    "party": "DEM",
+    "votes": 3877868,
+    "pct": 43.24
+   },
+   {
+    "id": "2016-PRES-johnson",
+    "name": "Gary Johnson / William Weld",
+    "party": "LIB",
+    "votes": 283492,
+    "pct": 3.16
+   },
+   {
+    "id": "2016-PRES-stein",
+    "name": "Jill Stein / Ajamu Baraka",
+    "party": "GRN",
+    "votes": 71558,
+    "pct": 0.8
+   },
+   {
+    "id": "2016-PRES-mcmullin",
+    "name": "Evan McMullin / Nathan Johnson",
+    "party": "WRI",
+    "votes": 42366,
+    "pct": 0.47
+   },
+   {
+    "id": "2016-PRES-castle",
+    "name": "Darrell L. Castle / Scott N. Bradley",
+    "party": "WRI",
+    "votes": 4261,
+    "pct": 0.05
+   },
+   {
+    "id": "2016-PRES-maturen",
+    "name": "Michael A. Maturen / Juan A. Munoz",
+    "party": "WRI",
+    "votes": 1401,
+    "pct": 0.02
+   },
+   {
+    "id": "2016-PRES-kotlikoff",
+    "name": "Laurence Kotlikoff / Edward Leamer",
+    "party": "WRI",
+    "votes": 1037,
+    "pct": 0.01
+   },
+   {
+    "id": "2016-PRES-hoefling",
+    "name": "Tom Hoefling / Steve Schulin",
+    "party": "WRI",
+    "votes": 932,
+    "pct": 0.01
+   },
+   {
+    "id": "2016-PRES-valdivia",
+    "name": "Tony Valdivia / Aaron Barriere",
+    "party": "WRI",
+    "votes": 428,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-cubbler",
+    "name": "Scott Cubbler / Michael Rodriguez",
+    "party": "WRI",
+    "votes": 314,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-morrow",
+    "name": "Robert Morrow / Todd Sanders",
+    "party": "WRI",
+    "votes": 145,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-moorehead",
+    "name": "Monica Moorehead / Lamont Lilly",
+    "party": "WRI",
+    "votes": 122,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-soltysik",
+    "name": "Emidio Soltysik / Angela Walker",
+    "party": "WRI",
+    "votes": 72,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-steffes",
+    "name": "Dale Steffes / Paul E. Case",
+    "party": "WRI",
+    "votes": 71,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-lee",
+    "name": "Jonathan Lee / Jeffrey Erskine",
+    "party": "WRI",
+    "votes": 67,
+    "pct": 0.0
+   },
+   {
+    "id": "2016-PRES-fox",
+    "name": "Cherunda Fox / Roger Kushner",
+    "party": "WRI",
+    "votes": 45,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2018-GOV",
+  "year": 2018,
+  "office": "GOV",
+  "officeLabel": "Governor",
+  "date": "2018-11-06",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 8343443,
+  "countiesWon": {
+   "REP": 234,
+   "DEM": 20
+  },
+  "statewide": [
+   {
+    "id": "2018-GOV-abbott",
+    "name": "Greg Abbott",
+    "party": "REP",
+    "votes": 4656196,
+    "pct": 55.81
+   },
+   {
+    "id": "2018-GOV-valdez",
+    "name": "Lupe Valdez",
+    "party": "DEM",
+    "votes": 3546615,
+    "pct": 42.51
+   },
+   {
+    "id": "2018-GOV-tippetts",
+    "name": "Mark Jay Tippetts",
+    "party": "LIB",
+    "votes": 140632,
+    "pct": 1.69
+   }
+  ]
+ },
+ {
+  "id": "2018-SEN",
+  "year": 2018,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2018-11-06",
+  "status": "canvassed",
+  "source": "sos_legacy",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 8371655,
+  "countiesWon": {
+   "REP": 222,
+   "DEM": 32
+  },
+  "statewide": [
+   {
+    "id": "2018-SEN-cruz",
+    "name": "Ted Cruz",
+    "party": "REP",
+    "votes": 4260553,
+    "pct": 50.89
+   },
+   {
+    "id": "2018-SEN-orourke",
+    "name": "Beto O'Rourke",
+    "party": "DEM",
+    "votes": 4045632,
+    "pct": 48.33
+   },
+   {
+    "id": "2018-SEN-dikeman",
+    "name": "Neal M. Dikeman",
+    "party": "LIB",
+    "votes": 65470,
+    "pct": 0.78
+   }
+  ]
+ },
+ {
+  "id": "2020-PRES",
+  "year": 2020,
+  "office": "PRES",
+  "officeLabel": "President",
+  "date": "2020-11-03",
+  "status": "canvassed",
+  "source": "sos_xlsx",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 11315056,
+  "countiesWon": {
+   "REP": 232,
+   "DEM": 22
+  },
+  "statewide": [
+   {
+    "id": "2020-PRES-trump",
+    "name": "Donald J. Trump / Michael R. Pence",
+    "party": "REP",
+    "votes": 5890347,
+    "pct": 52.06
+   },
+   {
+    "id": "2020-PRES-biden",
+    "name": "Joseph R. Biden / Kamala D. Harris",
+    "party": "DEM",
+    "votes": 5259126,
+    "pct": 46.48
+   },
+   {
+    "id": "2020-PRES-jorgensen",
+    "name": "Jo Jorgensen / Jeremy \"Spike\" Cohen",
+    "party": "LIB",
+    "votes": 126243,
+    "pct": 1.12
+   },
+   {
+    "id": "2020-PRES-hawkins",
+    "name": "Howie Hawkins / Angela Walker",
+    "party": "GRN",
+    "votes": 33396,
+    "pct": 0.3
+   },
+   {
+    "id": "2020-PRES-carroll",
+    "name": "Brian Carroll / Amar Patel",
+    "party": "WRI",
+    "votes": 2785,
+    "pct": 0.02
+   },
+   {
+    "id": "2020-PRES-boddie",
+    "name": "President R. Boddie / Eric C. Stoneham",
+    "party": "WRI",
+    "votes": 2012,
+    "pct": 0.02
+   },
+   {
+    "id": "2020-PRES-riva",
+    "name": "Gloria La Riva / Leonard Peltier",
+    "party": "WRI",
+    "votes": 350,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-hoefling",
+    "name": "Tom Hoefling / Andy Prior",
+    "party": "WRI",
+    "votes": 337,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-cella",
+    "name": "Todd Cella / Tim Cella",
+    "party": "WRI",
+    "votes": 205,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-wells",
+    "name": "Kasey Wells / Rachel Wells",
+    "party": "WRI",
+    "votes": 114,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-morrow",
+    "name": "Robert Morrow / Anne Beckett",
+    "party": "WRI",
+    "votes": 56,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-cuellar",
+    "name": "Jesse Cuellar / Jimmy Monreal",
+    "party": "WRI",
+    "votes": 49,
+    "pct": 0.0
+   },
+   {
+    "id": "2020-PRES-loeb",
+    "name": "Abram Loeb / Jennifer Jairala",
+    "party": "WRI",
+    "votes": 36,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2020-SEN",
+  "year": 2020,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2020-11-03",
+  "status": "canvassed",
+  "source": "sos_xlsx",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 11144040,
+  "countiesWon": {
+   "REP": 233,
+   "DEM": 21
+  },
+  "statewide": [
+   {
+    "id": "2020-SEN-cornyn",
+    "name": "John Cornyn",
+    "party": "REP",
+    "votes": 5962983,
+    "pct": 53.51
+   },
+   {
+    "id": "2020-SEN-hegar",
+    "name": "Mary \"MJ\" Hegar",
+    "party": "DEM",
+    "votes": 4888764,
+    "pct": 43.87
+   },
+   {
+    "id": "2020-SEN-mckennon",
+    "name": "Kerry Douglas McKennon",
+    "party": "LIB",
+    "votes": 209722,
+    "pct": 1.88
+   },
+   {
+    "id": "2020-SEN-collins",
+    "name": "David B. Collins",
+    "party": "GRN",
+    "votes": 81893,
+    "pct": 0.73
+   },
+   {
+    "id": "2020-SEN-turullols-bonilla",
+    "name": "Ricardo Turullols-Bonilla",
+    "party": "WRI",
+    "votes": 678,
+    "pct": 0.01
+   }
+  ]
+ },
+ {
+  "id": "2022-GOV",
+  "year": 2022,
+  "office": "GOV",
+  "officeLabel": "Governor",
+  "date": "2022-11-08",
+  "status": "canvassed",
+  "source": "sos_xlsx",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 8102908,
+  "countiesWon": {
+   "REP": 235,
+   "DEM": 19
+  },
+  "statewide": [
+   {
+    "id": "2022-GOV-abbott",
+    "name": "Greg Abbott",
+    "party": "REP",
+    "votes": 4437099,
+    "pct": 54.76
+   },
+   {
+    "id": "2022-GOV-orourke",
+    "name": "Beto O'Rourke",
+    "party": "DEM",
+    "votes": 3553656,
+    "pct": 43.86
+   },
+   {
+    "id": "2022-GOV-tippetts",
+    "name": "Mark Tippetts",
+    "party": "LIB",
+    "votes": 81932,
+    "pct": 1.01
+   },
+   {
+    "id": "2022-GOV-barrios",
+    "name": "Delilah Barrios",
+    "party": "GRN",
+    "votes": 28584,
+    "pct": 0.35
+   },
+   {
+    "id": "2022-GOV-abernathy",
+    "name": "Jacqueline Abernathy",
+    "party": "WRI",
+    "votes": 1243,
+    "pct": 0.02
+   },
+   {
+    "id": "2022-GOV-goloby",
+    "name": "Mark V Goloby",
+    "party": "WRI",
+    "votes": 394,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2024-PRES",
+  "year": 2024,
+  "office": "PRES",
+  "officeLabel": "President",
+  "date": "2024-11-05",
+  "status": "canvassed",
+  "source": "sos_xlsx",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 11388674,
+  "countiesWon": {
+   "REP": 242,
+   "DEM": 12
+  },
+  "statewide": [
+   {
+    "id": "2024-PRES-trump",
+    "name": "Donald J. Trump / JD Vance",
+    "party": "REP",
+    "votes": 6393597,
+    "pct": 56.14
+   },
+   {
+    "id": "2024-PRES-harris",
+    "name": "Kamala D. Harris / Tim Walz",
+    "party": "DEM",
+    "votes": 4835250,
+    "pct": 42.46
+   },
+   {
+    "id": "2024-PRES-stein",
+    "name": "Jill Stein / Rudolph Ware",
+    "party": "GRN",
+    "votes": 82701,
+    "pct": 0.73
+   },
+   {
+    "id": "2024-PRES-oliver",
+    "name": "Chase Oliver / Mike Ter Maat",
+    "party": "LIB",
+    "votes": 68557,
+    "pct": 0.6
+   },
+   {
+    "id": "2024-PRES-sonski",
+    "name": "Peter Sonski / Lauren Onak",
+    "party": "WRI",
+    "votes": 3780,
+    "pct": 0.03
+   },
+   {
+    "id": "2024-PRES-cruz",
+    "name": "Claudia De La Cruz / Karina Garcia",
+    "party": "WRI",
+    "votes": 2374,
+    "pct": 0.02
+   },
+   {
+    "id": "2024-PRES-west",
+    "name": "Cornel West / Melina Abdullah",
+    "party": "WRI",
+    "votes": 1858,
+    "pct": 0.02
+   },
+   {
+    "id": "2024-PRES-ayyadurai",
+    "name": "Shiva Ayyadurai / Crystal Ellis",
+    "party": "WRI",
+    "votes": 433,
+    "pct": 0.0
+   },
+   {
+    "id": "2024-PRES-cuellar",
+    "name": "Jessie Cuellar / Wesley Lasley",
+    "party": "WRI",
+    "votes": 98,
+    "pct": 0.0
+   },
+   {
+    "id": "2024-PRES-fox",
+    "name": "Cherunda Fox / Harlan McVay",
+    "party": "WRI",
+    "votes": 26,
+    "pct": 0.0
+   }
+  ]
+ },
+ {
+  "id": "2024-SEN",
+  "year": 2024,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2024-11-05",
+  "status": "canvassed",
+  "source": "sos_xlsx",
+  "sourceLabel": "Texas Secretary of State",
+  "countiesReported": 254,
+  "total": 11291854,
+  "countiesWon": {
+   "REP": 235,
+   "DEM": 19
+  },
+  "statewide": [
+   {
+    "id": "2024-SEN-cruz",
+    "name": "Ted Cruz",
+    "party": "REP",
+    "votes": 5990741,
+    "pct": 53.05
+   },
+   {
+    "id": "2024-SEN-allred",
+    "name": "Colin Allred",
+    "party": "DEM",
+    "votes": 5031249,
+    "pct": 44.56
+   },
+   {
+    "id": "2024-SEN-brown",
+    "name": "Ted Brown",
+    "party": "LIB",
+    "votes": 267039,
+    "pct": 2.36
+   },
+   {
+    "id": "2024-SEN-roche",
+    "name": "Analisa Roche",
+    "party": "WRI",
+    "votes": 1906,
+    "pct": 0.02
+   },
+   {
+    "id": "2024-SEN-andrus",
+    "name": "Tracy Andrus",
+    "party": "WRI",
+    "votes": 919,
+    "pct": 0.01
+   }
+  ]
+ },
+ {
+  "id": "2026-SEN",
+  "year": 2026,
+  "office": "SEN",
+  "officeLabel": "U.S. Senate",
+  "date": "2026-11-03",
+  "status": "unofficial",
+  "source": "ddhq_csv",
+  "sourceLabel": "Decision Desk HQ",
+  "countiesReported": 253,
+  "total": 9702373,
+  "countiesWon": {
+   "REP": 213,
+   "DEM": 40
+  },
+  "statewide": [
+   {
+    "id": "2026-SEN-talarico",
+    "name": "James Talarico",
+    "party": "DEM",
+    "votes": 5259847,
+    "pct": 54.21
+   },
+   {
+    "id": "2026-SEN-paxton",
+    "name": "Ken Paxton",
+    "party": "REP",
+    "votes": 4260640,
+    "pct": 43.91
+   },
+   {
+    "id": "2026-SEN-brown",
+    "name": "Ted Brown",
+    "party": "LIB",
+    "votes": 181886,
+    "pct": 1.87
+   }
+  ]
+ }
+]

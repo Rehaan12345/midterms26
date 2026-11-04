@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Wed, 04 Nov 2026 08:41:12 GMT
+content-type: application/json
+content-length: 962
+vary: Accept-Encoding
+access-control-allow-origin: *
+age: 0
+cache-control: public, max-age=3600
+content-security-policy: default-src 'self' *.fec.gov *.app.cloud.gov; connect-src *.fec.gov *.cloud.gov https://api.data.gov https://www.google-analytics.com; font-src 'self' https://fonts.gstatic.com data: https://api.data.gov; frame-src 'self' *.fec.gov *.app.cloud.gov https://www.google.com/recaptcha/                 https://recaptcha.google.com/recaptcha/; img-src 'self' data:; object-src 'none'; script-src 'self' https://api.data.gov https://dap.digitalgov.gov https://www.google-analytics.com                 https://www.googletagmanager.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/                     'unsafe-inline'; style-src 'self' https://fonts.googleapis.com https://api.data.gov 'unsafe-inline'; report-uri /report-csp-violation/;
+expect-ct: max-age=86400
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+via: https/1.1 api-umbrella (ApacheTrafficServer [cMsSfW])
+x-api-umbrella-request-id: d1kms2jcqnp43r2b1ggg
+x-cache: MISS
+x-content-type-options: nosniff
+x-ratelimit-limit: 10
+x-ratelimit-remaining: 7
+x-vcap-request-id: b9bf9c73-7b12-4d65-4548-7aec8e3274c3
+x-xss-protection: 1; mode=block
+x-frame-options: Deny
+

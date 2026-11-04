@@ -1,0 +1,248 @@
+{
+  "profile": "tabular-data-package",
+  "name": "the-entire-network",
+  "title": "The Entire Network",
+  "description": "Every entity and every link on the interactive map at whofundedgenocide.com/map, each row carrying the record it rests on.",
+  "homepage": "https://whofundedgenocide.com/map/",
+  "version": "1",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Who Funded Genocide",
+      "path": "https://whofundedgenocide.com/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Who Funded Genocide",
+      "role": "author"
+    },
+    {
+      "title": "Wallface",
+      "role": "contributor"
+    }
+  ],
+  "resources": [
+    {
+      "name": "entities",
+      "path": "the-entire-network-entities.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per entity drawn on the map.",
+      "schema": {
+        "fields": [
+          {
+            "name": "board",
+            "type": "string"
+          },
+          {
+            "name": "board_title",
+            "type": "string"
+          },
+          {
+            "name": "column_number",
+            "type": "integer"
+          },
+          {
+            "name": "column",
+            "type": "string"
+          },
+          {
+            "name": "entity_id",
+            "type": "string"
+          },
+          {
+            "name": "kind",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "subtitle",
+            "type": "string"
+          },
+          {
+            "name": "what_the_record_says",
+            "type": "string"
+          },
+          {
+            "name": "source_ids",
+            "type": "string"
+          },
+          {
+            "name": "source_urls",
+            "type": "string"
+          }
+        ],
+        "primaryKey": [
+          "board",
+          "entity_id"
+        ]
+      }
+    },
+    {
+      "name": "links",
+      "path": "the-entire-network-links.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per line drawn on the map.",
+      "schema": {
+        "fields": [
+          {
+            "name": "board",
+            "type": "string"
+          },
+          {
+            "name": "board_title",
+            "type": "string"
+          },
+          {
+            "name": "from_entity_id",
+            "type": "string"
+          },
+          {
+            "name": "from_name",
+            "type": "string"
+          },
+          {
+            "name": "to_entity_id",
+            "type": "string"
+          },
+          {
+            "name": "to_name",
+            "type": "string"
+          },
+          {
+            "name": "what_the_line_says",
+            "type": "string"
+          },
+          {
+            "name": "money_or_not",
+            "type": "string"
+          },
+          {
+            "name": "measure",
+            "type": "string"
+          },
+          {
+            "name": "amount_as_filed",
+            "type": "string"
+          },
+          {
+            "name": "amount",
+            "type": "number"
+          },
+          {
+            "name": "currency",
+            "type": "string"
+          },
+          {
+            "name": "period",
+            "type": "string"
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "detail",
+            "type": "string"
+          },
+          {
+            "name": "source_ids",
+            "type": "string"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "board",
+              "from_entity_id"
+            ],
+            "reference": {
+              "resource": "entities",
+              "fields": [
+                "board",
+                "entity_id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "board",
+              "to_entity_id"
+            ],
+            "reference": {
+              "resource": "entities",
+              "fields": [
+                "board",
+                "entity_id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "sources",
+      "path": "the-entire-network-sources.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per source cited, per board.",
+      "schema": {
+        "fields": [
+          {
+            "name": "board",
+            "type": "string"
+          },
+          {
+            "name": "source_id",
+            "type": "string"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "type": "string"
+          },
+          {
+            "name": "locator",
+            "type": "string"
+          },
+          {
+            "name": "kind",
+            "type": "string"
+          },
+          {
+            "name": "sha256",
+            "type": "string"
+          },
+          {
+            "name": "our_copy",
+            "type": "string"
+          }
+        ],
+        "primaryKey": [
+          "board",
+          "source_id"
+        ]
+      }
+    }
+  ]
+}

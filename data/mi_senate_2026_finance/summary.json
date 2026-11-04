@@ -1,0 +1,218 @@
+{
+  "race": "US Senate, Michigan, 2026",
+  "candidates": {
+    "el_sayed": {
+      "committees": [
+        [
+          "C00902668",
+          "P"
+        ],
+        [
+          "C00961805",
+          "A"
+        ]
+      ],
+      "totals": {
+        "candidate": "Abdul El-Sayed",
+        "cand_id": "S6MI00418",
+        "party": "DEM",
+        "coverage_end": "10/14/2026",
+        "total_receipts": 53830872.19,
+        "individual_contributions": 47199664.7,
+        "pac_and_other_committee_contributions": 404657.71,
+        "party_committee_contributions": 65850.0,
+        "transfers_from_joint_fundraising_and_other_authorized": 6030960.32,
+        "candidate_self_funding": 0.0,
+        "other_loans": 0.0,
+        "total_disbursements": 51096843.3,
+        "cash_on_hand_start": 0.0,
+        "cash_on_hand_end": 2734028.89,
+        "individual_refunds": 271454.61,
+        "individual_itemized_api": 27959392.14,
+        "individual_unitemized_derived": 19240272.560000002,
+        "check_api_receipts_match": true
+      },
+      "outside": {
+        "support_primary": 2465461.5700000003,
+        "support_general": 38551277.05,
+        "oppose_primary": 20289904.209999997,
+        "oppose_general": 96173217.62
+      },
+      "committee_money_by_line": {
+        "party committee": 65850.0,
+        "PAC / other committee": 404657.71,
+        "transfer (JFC / authorized)": 6030960.319999999
+      },
+      "individuals": {
+        "itemized_lines": 126686,
+        "itemized_gross": 27959392.14,
+        "itemized_check_vs_fec": 0.0,
+        "refunds_sb28a": 0,
+        "unique_donors_name_zip": 34872,
+        "in_state_share": 0.30431785274141293,
+        "earmarked_share": 0.8855591894137653,
+        "earmarked_by_conduit": {
+          "ACTBLUE": 24759696.64
+        },
+        "memo_lines_not_counted": 122329,
+        "memo_lines_top_text": [
+          [
+            "Note: Above Contribution earmarked throu",
+            122107
+          ],
+          [
+            "",
+            208
+          ]
+        ]
+      },
+      "top_transfers_in": [
+        {
+          "from": "ABDUL FOR MICHIGAN VICTORY FUND",
+          "amount": 6030960.319999999
+        }
+      ]
+    },
+    "rogers": {
+      "committees": [
+        [
+          "C00892026",
+          "A"
+        ],
+        [
+          "C00849810",
+          "P"
+        ]
+      ],
+      "totals": {
+        "candidate": "Mike Rogers",
+        "cand_id": "S4MI00595",
+        "party": "REP",
+        "coverage_end": "10/22/2026",
+        "total_receipts": 23016438.64,
+        "individual_contributions": 15432313.28,
+        "pac_and_other_committee_contributions": 1290277.09,
+        "party_committee_contributions": 62000.0,
+        "transfers_from_joint_fundraising_and_other_authorized": 6163268.5,
+        "candidate_self_funding": 0.0,
+        "other_loans": 0.0,
+        "total_disbursements": 19369636.6,
+        "cash_on_hand_start": 255703.72,
+        "cash_on_hand_end": 3902505.76,
+        "individual_refunds": 107645.54,
+        "individual_itemized_api": 11709807.79,
+        "individual_unitemized_derived": 3722505.49,
+        "check_api_receipts_match": true
+      },
+      "outside": {
+        "support_primary": 12686010.5,
+        "support_general": 36840290.89,
+        "oppose_primary": 1502983.0,
+        "oppose_general": 52619672.33
+      },
+      "committee_money_by_line": {
+        "party committee": 62000.0,
+        "PAC / other committee": 1285277.09,
+        "transfer (JFC / authorized)": 6136255.14
+      },
+      "individuals": {
+        "itemized_lines": 153167,
+        "itemized_gross": 11704221.34,
+        "itemized_check_vs_fec": -5586.449999999255,
+        "refunds_sb28a": 0,
+        "unique_donors_name_zip": 11296,
+        "in_state_share": 0.21279218477253792,
+        "earmarked_share": 0.38057656383999994,
+        "earmarked_by_conduit": {
+          "WINRED": 4175010.2,
+          "REPUBLICAN JEWISH COALITION-PAC": 205262.14,
+          "NORPAC": 42110.0,
+          "AI POLICY NETWORK INC AIPN PAC INC": 25000.0,
+          "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION CO": 4500.0
+        },
+        "memo_lines_not_counted": 9810,
+        "memo_lines_top_text": [
+          [
+            "REDESIGNATION FROM PRIMARY",
+            4630
+          ],
+          [
+            "REDESIGNATION TO GENERAL",
+            4625
+          ]
+        ]
+      },
+      "top_transfers_in": [
+        {
+          "from": "TEAM ROGERS",
+          "amount": 5317923.109999999
+        },
+        {
+          "from": "ONE TEAM SENATE MAJORITY",
+          "amount": 159179.47000000003
+        },
+        {
+          "from": "NORTH CAROLINA AND MICHIGAN SENATE FUND",
+          "amount": 120864.80000000002
+        },
+        {
+          "from": "MAINTAIN THE MAJORITY",
+          "amount": 103826.39
+        },
+        {
+          "from": "STRENGTHEN OUR MAJORITY",
+          "amount": 102472.9
+        },
+        {
+          "from": "KEEP THE SENATE",
+          "amount": 92275.03
+        }
+      ]
+    }
+  },
+  "who_funded_genocide": {
+    "links": [
+      {
+        "candidate": "Mike Rogers",
+        "committee": "United Democracy Project (AIPAC super PAC)",
+        "measure": "spent for",
+        "amount": 64392.8,
+        "period": "2024, 2026"
+      },
+      {
+        "candidate": "Mike Rogers",
+        "committee": "RJC Victory Fund (Republican Jewish Coalition super PAC)",
+        "measure": "spent for",
+        "amount": 16127.88,
+        "period": "2024, 2026"
+      }
+    ],
+    "earmarked_through_norpac": {
+      "candidate": "Mike Rogers",
+      "contributions": 20,
+      "amount": 42110.0
+    },
+    "direct_from_wfg_committees": [
+      {
+        "candidate": "Mike Rogers",
+        "contributor": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+        "amount": 10000.0
+      },
+      {
+        "candidate": "Mike Rogers",
+        "contributor": "GRAND CANYON STATE CAUCUS",
+        "amount": 5000.0
+      }
+    ],
+    "donor_overlap": {
+      "Abdul El-Sayed": {
+        "donors": 1,
+        "amount": 150.0
+      },
+      "Mike Rogers": {
+        "donors": 1030,
+        "amount": 2251781.76
+      }
+    }
+  }
+}

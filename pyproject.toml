@@ -1,0 +1,6 @@
+[project]
+name = "tx-county-results"
+version = "0.1.0"
+description = "Texas county-level results for President, US Senate and Governor, 2008-2024 November generals"
+requires-python = ">=3.11"
+dependencies = ["openpyxl>=3.1"]

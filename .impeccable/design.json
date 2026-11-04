@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-04T07:57:09+00:00",
+  "title": "Design System: Texas, County by County",
+  "extensions": {
+    "colorMeta": {
+      "lilac-mist": {
+        "role": "neutral",
+        "displayName": "Lilac Mist",
+        "canonical": "#f6f4fb",
+        "oklch": "oklch(97.1% 0.009 299)",
+        "tonalRamp": [
+          "#121114",
+          "#29282c",
+          "#48474b",
+          "#69686d",
+          "#8d8b91",
+          "#b2b0b6",
+          "#d5d3d8",
+          "#efedf2"
+        ]
+      },
+      "surface-white": {
+        "role": "neutral",
+        "displayName": "Surface White",
+        "canonical": "#ffffff",
+        "oklch": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#121212",
+          "#292929",
+          "#484848",
+          "#696969",
+          "#8c8c8c",
+          "#b1b1b1",
+          "#d4d4d4",
+          "#eeeeee"
+        ]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#e9e5f2",
+        "oklch": "oklch(92.9% 0.018 300)",
+        "tonalRamp": [
+          "#121116",
+          "#2a282e",
+          "#49464f",
+          "#6a6771",
+          "#8d8a95",
+          "#b2afba",
+          "#d5d2dc",
+          "#efedf6"
+        ]
+      },
+      "lavender": {
+        "role": "secondary",
+        "displayName": "Lavender",
+        "canonical": "#ece6fb",
+        "oklch": "oklch(93.6% 0.029 299)",
+        "tonalRamp": [
+          "#131018",
+          "#2a2732",
+          "#494553",
+          "#6b6677",
+          "#8e899b",
+          "#b3aebf",
+          "#d6d1e1",
+          "#f0ecfa"
+        ]
+      },
+      "lavender-2": {
+        "role": "secondary",
+        "displayName": "Lavender 2",
+        "canonical": "#d9cff6",
+        "oklch": "oklch(87.5% 0.054 297)",
+        "tonalRamp": [
+          "#130e1f",
+          "#2b253a",
+          "#4a435d",
+          "#6c6383",
+          "#8f86a9",
+          "#b4abcc",
+          "#d7cfed",
+          "#f1eaff"
+        ]
+      },
+      "lavender-ink": {
+        "role": "secondary",
+        "displayName": "Lavender Ink",
+        "canonical": "#4b3f8a",
+        "oklch": "oklch(42.0% 0.120 287)",
+        "tonalRamp": [
+          "#120830",
+          "#281f50",
+          "#453d79",
+          "#665da5",
+          "#8880ce",
+          "#ada7ef",
+          "#d0ccff",
+          "#eae7ff"
+        ]
+      },
+      "focus-violet": {
+        "role": "primary",
+        "displayName": "Focus Violet",
+        "canonical": "#6a55cc",
+        "oklch": "oklch(53.4% 0.177 287)",
+        "tonalRamp": [
+          "#110830",
+          "#272050",
+          "#453d79",
+          "#655da5",
+          "#8880cf",
+          "#aca7ef",
+          "#cfccff",
+          "#eae7ff"
+        ]
+      },
+      "track-violet": {
+        "role": "primary",
+        "displayName": "Track Violet",
+        "canonical": "#8473d6",
+        "oklch": "oklch(61.6% 0.146 289)",
+        "tonalRamp": [
+          "#12082f",
+          "#291f4f",
+          "#473d79",
+          "#685ca4",
+          "#8b7fce",
+          "#afa6ee",
+          "#d2cbff",
+          "#ece6ff"
+        ]
+      },
+      "plum-ink": {
+        "role": "neutral",
+        "displayName": "Plum Ink",
+        "canonical": "#2a2533",
+        "oklch": "oklch(27.6% 0.026 301)",
+        "tonalRamp": [
+          "#131018",
+          "#2a2731",
+          "#494552",
+          "#6b6675",
+          "#8e899a",
+          "#b3aebe",
+          "#d6d1e0",
+          "#f0ecf9"
+        ]
+      },
+      "plum-ink-2": {
+        "role": "neutral",
+        "displayName": "Plum Ink 2",
+        "canonical": "#5d5770",
+        "oklch": "oklch(47.2% 0.040 296)",
+        "tonalRamp": [
+          "#120f1c",
+          "#2a2636",
+          "#494458",
+          "#6a657d",
+          "#8e88a2",
+          "#b2adc5",
+          "#d5d1e7",
+          "#f0ebff"
+        ]
+      },
+      "plum-ink-3": {
+        "role": "neutral",
+        "displayName": "Plum Ink 3",
+        "canonical": "#6e6882",
+        "oklch": "oklch(53.2% 0.041 296)",
+        "tonalRamp": [
+          "#120f1c",
+          "#2a2636",
+          "#494458",
+          "#6a657d",
+          "#8e88a2",
+          "#b2adc5",
+          "#d5d1e7",
+          "#f0ebff"
+        ]
+      },
+      "state-outline": {
+        "role": "neutral",
+        "displayName": "State Outline",
+        "canonical": "#c9c2dc",
+        "oklch": "oklch(82.8% 0.037 298)",
+        "tonalRamp": [
+          "#130f1a",
+          "#2a2634",
+          "#494456",
+          "#6b657a",
+          "#8e889f",
+          "#b3adc3",
+          "#d6d1e5",
+          "#f0ebfe"
+        ]
+      },
+      "rep-rose-1": {
+        "role": "data",
+        "displayName": "Republican Rose, <10 pts",
+        "canonical": "#f2a0a6",
+        "oklch": "oklch(91.4% 0.038 16)",
+        "tonalRamp": [
+          "#1b0d0e",
+          "#352324",
+          "#574142",
+          "#7c6162",
+          "#a18485",
+          "#c5a9aa",
+          "#e7cdce",
+          "#ffe8e9"
+        ],
+        "definedSteps": [
+          "#f2a0a6",
+          "#dc4a55",
+          "#b01e2c"
+        ]
+      },
+      "rep-rose-2": {
+        "role": "data",
+        "displayName": "Republican Rose, 10-30 pts",
+        "canonical": "#dc4a55",
+        "oklch": "oklch(82.5% 0.080 15)",
+        "tonalRamp": [
+          "#23070a",
+          "#401c20",
+          "#66383c",
+          "#8e575b",
+          "#b6797d",
+          "#d9a0a3",
+          "#f9c5c7",
+          "#ffe0e3"
+        ],
+        "definedSteps": [
+          "#f2a0a6",
+          "#dc4a55",
+          "#b01e2c"
+        ]
+      },
+      "rep-rose-3": {
+        "role": "data",
+        "displayName": "Republican Rose, 30+ pts",
+        "canonical": "#b01e2c",
+        "oklch": "oklch(73.3% 0.120 15)",
+        "tonalRamp": [
+          "#2a0007",
+          "#4a111b",
+          "#732d36",
+          "#9e4b54",
+          "#c86d75",
+          "#eb969c",
+          "#ffbcc1",
+          "#ffd9dd"
+        ],
+        "definedSteps": [
+          "#f2a0a6",
+          "#dc4a55",
+          "#b01e2c"
+        ]
+      },
+      "dem-blue-1": {
+        "role": "data",
+        "displayName": "Democrat Powder Blue, <10 pts",
+        "canonical": "#97b8ee",
+        "oklch": "oklch(91.8% 0.034 259)",
+        "tonalRamp": [
+          "#0c121b",
+          "#222935",
+          "#3f4857",
+          "#5e6a7b",
+          "#818da0",
+          "#a6b2c4",
+          "#cbd5e5",
+          "#e6effe"
+        ],
+        "definedSteps": [
+          "#97b8ee",
+          "#3f75d4",
+          "#1a4aa3"
+        ]
+      },
+      "dem-blue-2": {
+        "role": "data",
+        "displayName": "Democrat Powder Blue, 10-30 pts",
+        "canonical": "#3f75d4",
+        "oklch": "oklch(82.2% 0.070 261)",
+        "tonalRamp": [
+          "#061125",
+          "#1a2941",
+          "#364867",
+          "#53698f",
+          "#758db6",
+          "#9bb2d8",
+          "#c1d5f8",
+          "#dcf0ff"
+        ],
+        "definedSteps": [
+          "#97b8ee",
+          "#3f75d4",
+          "#1a4aa3"
+        ]
+      },
+      "dem-blue-3": {
+        "role": "data",
+        "displayName": "Democrat Powder Blue, 30+ pts",
+        "canonical": "#1a4aa3",
+        "oklch": "oklch(72.1% 0.107 261)",
+        "tonalRamp": [
+          "#020f2e",
+          "#12274e",
+          "#2c4777",
+          "#4868a2",
+          "#698ccb",
+          "#91b2ec",
+          "#b7d5ff",
+          "#d3f0ff"
+        ],
+        "definedSteps": [
+          "#97b8ee",
+          "#3f75d4",
+          "#1a4aa3"
+        ]
+      },
+      "other-sand-1": {
+        "role": "data",
+        "displayName": "Other Sand, <10 pts",
+        "canonical": "#ece6d3",
+        "oklch": "oklch(92.5% 0.026 92)",
+        "tonalRamp": [
+          "#141109",
+          "#2c291e",
+          "#4c483b",
+          "#6e6959",
+          "#918c7b",
+          "#b6b1a1",
+          "#d9d4c6",
+          "#f3eee1"
+        ],
+        "definedSteps": [
+          "#ece6d3",
+          "#ddd2b0",
+          "#c9b98a"
+        ]
+      },
+      "other-sand-2": {
+        "role": "data",
+        "displayName": "Other Sand, 10-30 pts",
+        "canonical": "#ddd2b0",
+        "oklch": "oklch(86.4% 0.047 92)",
+        "tonalRamp": [
+          "#161103",
+          "#2f2815",
+          "#4f4730",
+          "#72694c",
+          "#968c6d",
+          "#bab195",
+          "#dcd4ba",
+          "#f6eed7"
+        ],
+        "definedSteps": [
+          "#ece6d3",
+          "#ddd2b0",
+          "#c9b98a"
+        ]
+      },
+      "other-sand-3": {
+        "role": "data",
+        "displayName": "Other Sand, 30+ pts",
+        "canonical": "#c9b98a",
+        "oklch": "oklch(78.8% 0.065 91)",
+        "tonalRamp": [
+          "#181100",
+          "#31280a",
+          "#524724",
+          "#76683f",
+          "#9a8b60",
+          "#beb089",
+          "#e0d4b0",
+          "#f9eecd"
+        ],
+        "definedSteps": [
+          "#ece6d3",
+          "#ddd2b0",
+          "#c9b98a"
+        ]
+      },
+      "unreported": {
+        "role": "data",
+        "displayName": "Unreported",
+        "canonical": "#e8e6ee",
+        "oklch": "oklch(92.9% 0.011 298)",
+        "tonalRamp": [
+          "#121114",
+          "#29282c",
+          "#48474c",
+          "#69686e",
+          "#8d8b92",
+          "#b1b0b6",
+          "#d5d3d9",
+          "#efedf3"
+        ]
+      },
+      "lib-butter": {
+        "role": "data",
+        "displayName": "Libertarian Butter",
+        "canonical": "#ecd08a",
+        "oklch": "oklch(86.5% 0.094 89)",
+        "tonalRamp": [
+          "#1c0f00",
+          "#362600",
+          "#594509",
+          "#7d6626",
+          "#a38947",
+          "#c6af75",
+          "#e7d29f",
+          "#ffedbe"
+        ]
+      },
+      "grn-mint": {
+        "role": "data",
+        "displayName": "Green Mint",
+        "canonical": "#9fd6b6",
+        "oklch": "oklch(82.9% 0.072 159)",
+        "tonalRamp": [
+          "#00170a",
+          "#0e301f",
+          "#29513c",
+          "#45755b",
+          "#67997d",
+          "#90bea3",
+          "#b7e0c7",
+          "#d3f9e2"
+        ]
+      },
+      "wri-haze": {
+        "role": "data",
+        "displayName": "Write-in Haze",
+        "canonical": "#d6d2e0",
+        "oklch": "oklch(87.1% 0.020 299)",
+        "tonalRamp": [
+          "#121016",
+          "#2a272f",
+          "#49464f",
+          "#6a6772",
+          "#8d8a96",
+          "#b2afba",
+          "#d5d2dd",
+          "#efedf6"
+        ]
+      },
+      "ind-lilac": {
+        "role": "data",
+        "displayName": "Independent Lilac",
+        "canonical": "#c9b8ec",
+        "oklch": "oklch(81.4% 0.074 300)",
+        "tonalRamp": [
+          "#150c23",
+          "#2d223f",
+          "#4d4064",
+          "#6f608b",
+          "#9283b2",
+          "#b7a9d4",
+          "#d9cdf5",
+          "#f3e8ff"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Place name heading the results panel; 1.875rem at 960px and below."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "The one-sentence answer under the heading."
+      },
+      "figure": {
+        "displayName": "Figure",
+        "purpose": "Candidate percentages; light and tabular."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Site title in the header."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base text; tabular figures on by default."
+      },
+      "name": {
+        "displayName": "Name",
+        "purpose": "Candidate names."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Segmented-control options; 0.8125rem for map buttons, crumb, notice."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Vote counts, legend, year ticks, source note (0.75rem to 0.6875rem)."
+      }
+    },
+    "shadows": [
+      {
+        "name": "shadow-soft",
+        "value": "0 1px 2px rgba(42, 37, 51, 0.04), 0 8px 24px rgba(42, 37, 51, 0.06)",
+        "purpose": "Resting floating pieces: legend, map controls, reset pill, error card."
+      },
+      {
+        "name": "shadow-lift",
+        "value": "0 2px 6px rgba(42, 37, 51, 0.06), 0 16px 40px rgba(42, 37, 51, 0.1)",
+        "purpose": "Timeline, tooltip, mobile peek."
+      },
+      {
+        "name": "shadow-toggle",
+        "value": "0 1px 3px rgba(42, 37, 51, 0.1)",
+        "purpose": "Selected option in the segmented race switch."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.22, 1, 0.36, 1)",
+        "purpose": "Shared easing for transitions, panel crossfade, row re-rank, bars, peek."
+      },
+      {
+        "name": "recolor-wave",
+        "value": "700ms, ease-out cubic (1 - (1 - t)^3), west to east by county longitude",
+        "purpose": "Signature move: counties recolour when the election changes; instant under reduced motion."
+      },
+      {
+        "name": "row-rerank",
+        "value": "layout position, 0.35s ease-out; bars scaleX 0.6s",
+        "purpose": "Candidate rows keep identity by party and re-rank in place."
+      },
+      {
+        "name": "panel-crossfade",
+        "value": "opacity + 6px rise, 0.28s ease-out",
+        "purpose": "Results panel content swap."
+      },
+      {
+        "name": "peek-slide",
+        "value": "translateY 110% to 0, 0.4s ease-out",
+        "purpose": "Mobile peek entrance."
+      },
+      {
+        "name": "state",
+        "value": "0.2s to 0.25s ease-out",
+        "purpose": "Colour, background and shadow changes on controls."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "MotionConfig reducedMotion=\"user\"; CSS transitions 0.01ms; wave, fitBounds and scrollIntoView skip animation",
+        "purpose": "All motion respects prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "single-column",
+        "value": "960px"
+      }
+    ],
+    "map": {
+      "seams": {
+        "color": "#ffffff",
+        "width": "0.6px at z4 to 1.4px at z8"
+      },
+      "outline": {
+        "color": "#c9c2dc",
+        "width": "1px at z4 to 2px at z8",
+        "join": "round"
+      },
+      "hover": {
+        "color": "#2a2533",
+        "width": "1.4px"
+      },
+      "selected": {
+        "color": "#2a2533",
+        "width": "2.2px",
+        "backing": "#ffffff at 5px",
+        "cap": "round"
+      },
+      "keyboard": "Arrow keys step through counties alphabetically; Escape returns to all of Texas."
+    }
+  },
+  "components": [
+    {
+      "name": "Segmented Race Switch",
+      "kind": "nav",
+      "refersTo": "segmented-option",
+      "description": "President / Senate / Governor radio group in the header; unavailable races dim and explain themselves.",
+      "html": "<div class=\"ds-offices\" role=\"radiogroup\" aria-label=\"Race\"><button role=\"radio\" aria-checked=\"false\" class=\"is-off\">President</button><button role=\"radio\" aria-checked=\"true\" class=\"is-on\">Senate</button><button role=\"radio\" aria-checked=\"false\">Governor</button></div>",
+      "css": ".ds-offices { display: inline-flex; gap: 2px; padding: 3px; background: var(--lavender); border-radius: 999px; font-family: var(--font); } .ds-offices button { border: 0; background: transparent; color: var(--ink-2); padding: 7px 16px; border-radius: 999px; font: inherit; font-size: 0.875rem; font-weight: 500; cursor: pointer; transition: background-color .25s var(--ease-out), color .25s var(--ease-out), box-shadow .25s var(--ease-out); } .ds-offices button:hover:not(.is-on):not(.is-off) { color: var(--ink); } .ds-offices button.is-on { background: var(--surface); color: var(--ink); box-shadow: 0 1px 3px rgba(42,37,51,.1); } .ds-offices button.is-off { color: var(--ink-3); opacity: .55; cursor: default; } .ds-offices button:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Pill Button",
+      "kind": "button",
+      "refersTo": "button-pill",
+      "description": "Floating map action, e.g. Show all of Texas.",
+      "html": "<button class=\"ds-pill\">Show all of Texas</button>",
+      "css": ".ds-pill { background: var(--surface); border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 14px; font-size: 0.8125rem; font-weight: 500; color: var(--ink-2); box-shadow: var(--shadow-soft); cursor: pointer; font-family: var(--font); } .ds-pill:hover { color: var(--ink); } .ds-pill:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Icon Button",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "36px circular close control in the mobile peek.",
+      "html": "<button class=\"ds-icon-btn\" aria-label=\"Close county\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 6 6 18\"/><path d=\"m6 6 12 12\"/></svg></button>",
+      "css": ".ds-icon-btn { width: 36px; height: 36px; display: grid; place-items: center; border-radius: 999px; border: 1px solid var(--hairline); background: var(--surface); color: var(--ink-2); cursor: pointer; } .ds-icon-btn:hover { color: var(--ink); background: var(--ground); } .ds-icon-btn:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Crumb Link",
+      "kind": "button",
+      "refersTo": "crumb-link",
+      "description": "Back to all of Texas, above the county heading; navigation, not a label.",
+      "html": "<button class=\"ds-crumb\"><svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m12 19-7-7 7-7\"/><path d=\"M19 12H5\"/></svg> All of Texas</button>",
+      "css": ".ds-crumb { display: inline-flex; align-items: center; gap: 6px; border: 0; background: none; padding: 0; color: var(--lavender-ink); font-size: 0.8125rem; font-weight: 500; cursor: pointer; font-family: var(--font); } .ds-crumb:hover { text-decoration: underline; text-underline-offset: 3px; } .ds-crumb:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; border-radius: 8px; }"
+    },
+    {
+      "name": "Timeline Slider",
+      "kind": "input",
+      "refersTo": "timeline",
+      "description": "Signature control: floating pill card with a native range input snapping to election years.",
+      "html": "<div class=\"ds-timeline\"><input type=\"range\" min=\"0\" max=\"8\" value=\"5\" aria-label=\"Election year\" style=\"--p: 62.5%\"><div class=\"ds-ticks\"><span>2008</span><span>2012</span><span class=\"is-on\">2018</span><span>2024</span></div></div>",
+      "css": ".ds-timeline { --thumb: 18px; width: 420px; background: var(--surface); border: 1px solid var(--hairline); border-radius: 20px; padding: 16px 22px 12px; box-shadow: var(--shadow-lift); font-family: var(--font); } .ds-timeline input { -webkit-appearance: none; appearance: none; display: block; width: 100%; height: var(--thumb); margin: 0; background: transparent; cursor: pointer; } .ds-timeline input::-webkit-slider-runnable-track { height: 4px; border-radius: 99px; background: linear-gradient(90deg, var(--track-fill) var(--p), var(--lavender) var(--p)); } .ds-timeline input::-moz-range-track { height: 4px; border-radius: 99px; background: linear-gradient(90deg, var(--track-fill) var(--p), var(--lavender) var(--p)); } .ds-timeline input::-webkit-slider-thumb { -webkit-appearance: none; width: var(--thumb); height: var(--thumb); margin-top: -7px; border-radius: 50%; background: var(--surface); border: 2px solid var(--focus); box-shadow: 0 2px 8px rgba(42,37,51,.16); transition: transform .2s var(--ease-out); } .ds-timeline input:active::-webkit-slider-thumb { transform: scale(1.12); } .ds-timeline input:focus-visible { outline: none; } .ds-timeline input:focus-visible::-webkit-slider-thumb { box-shadow: 0 0 0 3px var(--surface), 0 0 0 5px var(--focus); } .ds-ticks { display: flex; justify-content: space-between; margin-top: 8px; } .ds-ticks span { font-size: 0.75rem; color: var(--ink-3); cursor: pointer; } .ds-ticks span:hover, .ds-ticks span.is-on { color: var(--ink); } .ds-ticks span.is-on { font-weight: 600; }"
+    },
+    {
+      "name": "Candidate Row",
+      "kind": "custom",
+      "refersTo": "results-panel",
+      "description": "Name, party dot and party, light percentage, vote count, and a party-colour bar; winner gets a lavender Won chip.",
+      "html": "<div class=\"ds-cand\"><div><span class=\"ds-cand-name\">Beto O'Rourke</span><span class=\"ds-cand-party\"><i class=\"ds-swatch\" style=\"background: var(--DEM)\"></i>Democrat<span class=\"ds-won\">Won</span></span></div><div class=\"ds-cand-nums\"><span class=\"ds-cand-pct\">74.3%</span><span class=\"ds-cand-votes\">359,772 votes</span></div><div class=\"ds-cand-bar\"><span style=\"width: 74.3%; background: var(--DEM)\"></span></div></div>",
+      "css": ".ds-cand { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 8px 12px; width: 336px; color: var(--ink); font-feature-settings: 'tnum' 1; font-family: var(--font); } .ds-cand-name { display: block; font-weight: 500; font-size: 0.9375rem; line-height: 1.3; } .ds-cand-party { display: flex; align-items: center; gap: 6px; font-size: 0.8125rem; color: var(--ink-3); margin-top: 2px; } .ds-swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; } .ds-won { margin-left: 4px; font-size: 0.6875rem; font-weight: 600; color: var(--lavender-ink); background: var(--lavender); border-radius: 999px; padding: 1px 8px; } .ds-cand-nums { text-align: right; display: flex; flex-direction: column; } .ds-cand-pct { font-size: 1.5rem; font-weight: 300; letter-spacing: -0.02em; line-height: 1.1; } .ds-cand-votes { font-size: 0.75rem; color: var(--ink-3); } .ds-cand-bar { grid-column: 1 / -1; height: 4px; border-radius: 99px; background: var(--ground); overflow: hidden; } .ds-cand-bar span { display: block; height: 100%; border-radius: 99px; }"
+    },
+    {
+      "name": "Legend",
+      "kind": "card",
+      "refersTo": "legend",
+      "description": "Map key: party by three margin steps, floating top-left on the map.",
+      "html": "<figure class=\"ds-legend\"><div class=\"ds-legend-grid\"><span>Rep.</span><i style=\"background:#f2a0a6\"></i><i style=\"background:#dc4a55\"></i><i style=\"background:#b01e2c\"></i><span>Dem.</span><i style=\"background:#97b8ee\"></i><i style=\"background:#3f75d4\"></i><i style=\"background:#1a4aa3\"></i><span></span><small>&lt;10</small><small>10–30</small><small>30+</small></div><figcaption>Margin of victory, points</figcaption></figure>",
+      "css": ".ds-legend { margin: 0; display: inline-block; background: var(--surface); border: 1px solid var(--hairline); border-radius: 14px; padding: 12px 14px; font-size: 0.75rem; color: var(--ink-2); box-shadow: var(--shadow-soft); font-family: var(--font); } .ds-legend-grid { display: grid; grid-template-columns: auto repeat(3, 36px); gap: 4px; align-items: center; } .ds-legend-grid > span { padding-right: 6px; font-weight: 500; } .ds-legend-grid i { display: block; height: 12px; border-radius: 4px; } .ds-legend-grid small { font-size: 0.6875rem; color: var(--ink-3); text-align: center; } .ds-legend figcaption { margin-top: 6px; font-size: 0.6875rem; color: var(--ink-3); }"
+    },
+    {
+      "name": "Map Tooltip",
+      "kind": "card",
+      "refersTo": "map-tooltip",
+      "description": "Hover card over a county: name, winner with party dot, margin.",
+      "html": "<div class=\"ds-tip\"><strong>Travis County</strong><span><i class=\"ds-swatch\" style=\"background: var(--DEM)\"></i>O'Rourke (Democrat) <em>+49.7 pts</em></span></div>",
+      "css": ".ds-tip { display: inline-flex; flex-direction: column; gap: 2px; max-width: 260px; background: var(--surface); color: var(--ink); padding: 10px 14px; border-radius: 12px; font-size: 0.8125rem; line-height: 1.4; border: 1px solid var(--hairline); box-shadow: var(--shadow-lift); font-family: var(--font); } .ds-tip strong { font-weight: 600; font-size: 0.875rem; } .ds-tip span { display: flex; align-items: center; gap: 6px; color: var(--ink-2); } .ds-tip em { font-style: normal; color: var(--ink-3); } .ds-tip .ds-swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; }"
+    },
+    {
+      "name": "Mobile Peek",
+      "kind": "custom",
+      "refersTo": "peek",
+      "description": "Fixed bottom sheet on phones showing the tapped county's answer.",
+      "html": "<div class=\"ds-peek\"><button class=\"ds-peek-main\"><strong>Travis County</strong><span><i class=\"ds-swatch\" style=\"background: var(--DEM)\"></i>O'Rourke (Democrat) won by 49.7 pts</span><em>See full results</em></button></div>",
+      "css": ".ds-peek { display: flex; align-items: center; gap: 10px; width: 340px; background: var(--surface); border: 1px solid var(--hairline); border-radius: 18px; padding: 12px 12px 12px 16px; box-shadow: var(--shadow-lift); font-family: var(--font); } .ds-peek-main { flex: 1; border: 0; background: none; padding: 0; text-align: left; display: flex; flex-direction: column; gap: 2px; color: var(--ink); font: inherit; cursor: pointer; } .ds-peek-main strong { font-size: 1rem; font-weight: 600; } .ds-peek-main span { display: flex; align-items: center; gap: 6px; font-size: 0.875rem; color: var(--ink-2); } .ds-peek-main em { font-style: normal; font-size: 0.8125rem; font-weight: 500; color: var(--lavender-ink); } .ds-peek .ds-swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; } .ds-peek-main:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; border-radius: 8px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Quiet Pastel Map",
+    "overview": "**Creative North Star: \"The Quiet Pastel Map\"**\n\nTexas in soft rose and powder blue on a pale lilac field, with nothing on screen but the map, the result, and one slim timeline. The map owns the left of the screen; a white results panel holds the answer on the right; a floating pill slider sits along the bottom edge of the map. Everything that is not data is lilac, lavender, white or plum ink, so the party pastels are the only saturated colour you see.\n\nIt is calm and sleek rather than a busy election-night dashboard: light weights for big words and numbers, hairline borders, soft wide shadows, generous rounded corners. Density stays low. One answer at a time, written as a plain sentence (\"Beto O'Rourke won Travis County by 49.7 points.\"), with exact counts underneath.\n\nMotion is a single gesture. When the election changes, counties recolour in a soft west-to-east wave; candidate rows re-rank in place; the panel crossfades. All of it honours reduced motion.",
+    "keyCharacteristics": [
+      "Pale lilac-mist ground, white surfaces, plum ink for every text tone (AA on both).",
+      "Party pastels carry data and nothing else; lavender carries selection and state.",
+      "Geist Variable throughout: light for big words and numbers, medium for names, tabular figures for counts.",
+      "Hairline borders plus soft, wide, plum-tinted shadows on floating pieces only.",
+      "Pill and generously rounded shapes; no hard corners on interactive pieces."
+    ],
+    "rules": [
+      {
+        "name": "The Data-Only Pastel Rule",
+        "body": "Rose, powder blue, sand, butter, mint and haze mean a party and nothing else. Never use them for buttons, states, headings or decoration. Interface state is lavender and violet.",
+        "section": "colors"
+      },
+      {
+        "name": "The Text-Carries-Precision Rule",
+        "body": "Neighbouring margin steps are about 1.7–2.2:1 apart (darkened on owner request), so shade reads the margin band, but only roughly; the exact margin and vote counts are always available as text (panel, tooltip, peek). Any new surface that uses the shade steps must also give the exact number in text.",
+        "section": "colors"
+      },
+      {
+        "name": "The Plum-Only Text Rule",
+        "body": "All text uses the three plum ink tones or lavender ink. No grey, no pure black, no coloured text drawn from the party pastels.",
+        "section": "colors"
+      },
+      {
+        "name": "The Light-Numbers Rule",
+        "body": "Big numbers are set light (300) and large, never bold. Weight goes up only as size goes down.",
+        "section": "typography"
+      },
+      {
+        "name": "The Subtitle-Below Rule",
+        "body": "Context for a heading sits under it, never above it. The race and year (\"U.S. Senate · 2018\") follow the h2 as a subtitle; the only thing that may sit above the heading is the \"All of Texas\" back link, which is navigation, not a label. No eyebrows or kickers.",
+        "section": "typography"
+      },
+      {
+        "name": "The Float-Only Shadow Rule",
+        "body": "A shadow means \"this sits on top of the map.\" Panels and the header in the layout stay flat with hairlines.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** keep every text tone to plum ink, plum ink 2, plum ink 3 or lavender ink, so all text passes AA on the lilac ground and on white.",
+      "**Do** use focus violet for focus rings and the slider thumb, and track violet only for the filled track, kept at 3:1 or better for non-text contrast.",
+      "**Do** pair every margin shade with the exact margin in text somewhere on the same path (panel, tooltip or peek).",
+      "**Do** set large numbers light (300) with tabular figures, and keep names at 500.",
+      "**Do** put a heading's context under it as a subtitle.",
+      "**Do** keep shadows on floating pieces only, using the soft and lift values.",
+      "**Do** make sure every new animation respects reduced motion, through Motion's `reducedMotion=\"user\"` or the CSS override."
+    ],
+    "donts": [
+      "**Don't** use party pastels for anything but party data: no rose or blue buttons, states, headings or decorative fills.",
+      "**Don't** put eyebrows or kickers above headings.",
+      "**Don't** add dashboard chrome (stat tiles, dense tables, extra toolbars) around the map; one answer at a time.",
+      "**Don't** use hard or offset shadows, or heavy borders; 1px hairlines only.",
+      "**Don't** add a second accent hue; interface state is lavender and violet.",
+      "**Don't** add motion beyond the wave, the in-place re-rank, the panel crossfade and the small state transitions."
+    ]
+  }
+}

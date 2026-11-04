@@ -1,0 +1,20 @@
+path,source_url,fetched_at,sha256,status
+raw/census/st48_tx_cou2020.txt,https://www2.census.gov/geo/docs/reference/codes2020/cou/st48_tx_cou2020.txt,2026-11-04T08:51:14Z,c6db038bc0fab0a141e57892fcfbce6d1c0e47ae888bdb0be0e9437af0ecc0ec,ok
+raw/ddhq/race_294702_2026-texas-us-senate.csv,"https://votes.decisiondeskhq.com/ (user-provided CSV export, unofficial)",2026-11-04T08:51:14Z,36947bd85b8e70cbb751211c04a674e16564e1d57282bf266bcd1ef9ac08c7e9,unofficial
+raw/mit/countypres_2000-2024.csv,"https://doi.org/10.7910/DVN/VOQCHQ (manual download, Dataverse guestbook)",2026-11-04T08:51:14Z,9299583148f5f8264baf50b5d929c260699c46d915909b13ea3c3850918946f8,cross-check
+raw/openelections/20201103__tx__general__precinct.csv,https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2020/20201103__tx__general__precinct.csv,2026-11-04T08:51:14Z,84256f643919e8953cbbbccd58e679f89b84f5edfe2e0c3d3b96da458bced3ff,cross-check
+raw/openelections/20221108__tx__general__precinct.csv,https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2022/20221108__tx__general__precinct.csv,2026-11-04T08:51:14Z,6038336971f4a8d6312ec023b5518135e14787e4994cf2e39fd10755c6a6e9a4,cross-check
+raw/openelections/20241105__tx__general__harris__precinct.csv,https://raw.githubusercontent.com/openelections/openelections-data-tx/master/2024/counties/20241105__tx__general__harris__precinct.csv,2026-11-04T08:51:14Z,a70c999de87e298319f4f67f725d56c57ce77c3c35cf7c92efaab7f258aec9ff,cross-check
+raw/sos_legacy/elchist141_race62.htm,https://elections.sos.state.tx.us/elchist141_race62.htm,2026-11-04T06:47:36Z,d7155b6d4189b06bcfd44070493e1d974558cda35742a63fce3b1152cb57b766,ok
+raw/sos_legacy/elchist141_race832.htm,https://elections.sos.state.tx.us/elchist141_race832.htm,2026-11-04T06:47:36Z,596df0202f4dda62460e399f7dfcb06cdde743ec29670d52aea51350d47622e8,ok
+raw/sos_legacy/elchist154_race833.htm,https://elections.sos.state.tx.us/elchist154_race833.htm,2026-11-04T06:47:36Z,65facb9a0ccdc13a4035417e3ac90fc7f236a3ee5718d4fb695c5baeb980bb0d,ok
+raw/sos_legacy/elchist164_race62.htm,https://elections.sos.state.tx.us/elchist164_race62.htm,2026-11-04T06:47:36Z,6f6f0f4ff420a57af04205d6b87de8bad61b3450aa0e64f48e4ebb48f41873fa,ok
+raw/sos_legacy/elchist164_race832.htm,https://elections.sos.state.tx.us/elchist164_race832.htm,2026-11-04T06:47:36Z,428d884a1d85e29ab0242bc70f71c4b7af9fe2d7537b1cc276512527917592ee,ok
+raw/sos_legacy/elchist175_race832.htm,https://elections.sos.state.tx.us/elchist175_race832.htm,2026-11-04T06:47:36Z,da4f5824d2e415ebea25d20cdde844a8c455cf86e9cdb69b4e155e45e9ed6f91,ok
+raw/sos_legacy/elchist175_race833.htm,https://elections.sos.state.tx.us/elchist175_race833.htm,2026-11-04T06:47:36Z,585882771fc03933c1fb2f191a71d1db6794b305c93b6d534c278b4b2eedda67,ok
+raw/sos_legacy/elchist319_race62.htm,https://elections.sos.state.tx.us/elchist319_race62.htm,2026-11-04T06:47:36Z,08c6d438bc239f0b2618a79e0c53894d02d0c20ecea892c37965cfe23953ddac,ok
+raw/sos_legacy/elchist331_race832.htm,https://elections.sos.state.tx.us/elchist331_race832.htm,2026-11-04T06:47:36Z,0e44b00309b9627f8bb343f835642e2cdc2852b95e4c37e604cd78b32cf0bb6d,ok
+raw/sos_legacy/elchist331_race833.htm,https://elections.sos.state.tx.us/elchist331_race833.htm,2026-11-04T06:47:36Z,c79b1f7129ebfe9518029beff4e872ba0b7907c9ca00ad672aa1e225e9c94765,ok
+raw/sos_tx_election/2020_general.xlsx,"https://results.texas-election.com/races (manual download, Cloudflare-gated)",2026-11-04T08:51:14Z,5bae9479db586e41d6778ff3b864699863b6556f54b3cd339de9346caf606280,ok
+raw/sos_tx_election/2022_general.xlsx,"https://results.texas-election.com/races (manual download, Cloudflare-gated)",2026-11-04T08:51:14Z,7ceb970cce389bdcc6a6c79388e3395794b9583f3794bd388f13ff6ba8df1720,ok
+raw/sos_tx_election/2024_general.xlsx,"https://results.texas-election.com/races (manual download, Cloudflare-gated)",2026-11-04T08:51:14Z,7b1e1a75b367c37006dd39d637681bad40070e23829297d50bc9c1f29b9e1ab4,ok

@@ -1,0 +1,17 @@
+year,office,election_date,source,locator,status
+2008,PRES,2008-11-04,sos_legacy,141:62,canvassed
+2008,SEN,2008-11-04,sos_legacy,141:832,canvassed
+2010,GOV,2010-11-02,sos_legacy,154:833,canvassed
+2012,PRES,2012-11-06,sos_legacy,164:62,canvassed
+2012,SEN,2012-11-06,sos_legacy,164:832,canvassed
+2014,SEN,2014-11-04,sos_legacy,175:832,canvassed
+2014,GOV,2014-11-04,sos_legacy,175:833,canvassed
+2016,PRES,2016-11-08,sos_legacy,319:62,canvassed
+2018,SEN,2018-11-06,sos_legacy,331:832,canvassed
+2018,GOV,2018-11-06,sos_legacy,331:833,canvassed
+2020,PRES,2020-11-03,sos_xlsx,2020_general.xlsx:PRESIDENT/VICE-PRESIDENT,canvassed
+2020,SEN,2020-11-03,sos_xlsx,2020_general.xlsx:U. S. SENATOR,canvassed
+2022,GOV,2022-11-08,sos_xlsx,2022_general.xlsx:GOVERNOR,canvassed
+2024,PRES,2024-11-05,sos_xlsx,2024_general.xlsx:PRESIDENT/VICE-PRESIDENT,canvassed
+2024,SEN,2024-11-05,sos_xlsx,2024_general.xlsx:U. S. SENATOR,canvassed
+2026,SEN,2026-11-03,ddhq_csv,race_294702_2026-texas-us-senate.csv,unofficial

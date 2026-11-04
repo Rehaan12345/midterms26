@@ -1,0 +1,25 @@
+THE ENTIRE NETWORK - licence
+============================
+
+These tables are published under the Creative Commons Attribution 4.0 International
+licence (CC BY 4.0).
+
+  https://creativecommons.org/licenses/by/4.0/
+
+You may copy them, publish them, pass them on and build on them, for any purpose
+including a commercial one, as long as you credit the source and say if you changed
+anything. You do not need to ask.
+
+Credit it like this:
+
+  "The Entire Network." Who Funded Genocide. https://whofundedgenocide.com/map/
+  Licensed CC BY 4.0. Research in collaboration with Wallface.
+
+Two things this licence does not cover, because they were never ours to license:
+
+  - The underlying public records. Every row cites the register it came from, and
+    those registers set their own terms. Nothing here restricts what you may do with
+    a public record; nothing here grants you rights over one either.
+  - The names in these tables. They are reproduced as public registers record them.
+    Copying a register is not the same as publishing a claim about a person, and this
+    licence gives you no permission the law does not already give you.

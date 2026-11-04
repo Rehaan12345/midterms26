@@ -1,0 +1,109 @@
+year,office,source_name,candidate_id,name,party,party_source
+2008,PRES,John McCain / Sarah Palin,2008-PRES-mccain,John McCain / Sarah Palin,REP,source
+2008,PRES,Barack Obama / Joe Biden,2008-PRES-obama,Barack Obama / Joe Biden,DEM,source
+2008,PRES,Bob Barr / Wayne A. Root,2008-PRES-barr,Bob Barr / Wayne A. Root,LIB,source
+2008,PRES,Ralph Nader / Matt Gonzalez,2008-PRES-nader,Ralph Nader / Matt Gonzalez,WRI,source
+2008,PRES,Chuck Baldwin / Darrell L. Castle,2008-PRES-baldwin,Chuck Baldwin / Darrell L. Castle,WRI,source
+2008,PRES,Cynthia McKinney / Rosa Clemente,2008-PRES-mckinney,Cynthia McKinney / Rosa Clemente,WRI,source
+2008,PRES,"Alan Keyes / Marvin Sprouse, Jr.",2008-PRES-keyes,"Alan Keyes / Marvin Sprouse, Jr.",WRI,source
+2008,PRES,Thaddaus Hill / Gordon F. Bailey,2008-PRES-hill,Thaddaus Hill / Gordon F. Bailey,WRI,source
+2008,PRES,Brian Moore / Stewart A. Alexander,2008-PRES-moore,Brian Moore / Stewart A. Alexander,WRI,source
+2008,PRES,Jonathan Allen / Jeffrey D. Stath,2008-PRES-allen,Jonathan Allen / Jeffrey D. Stath,WRI,source
+2008,SEN,John Cornyn,2008-SEN-cornyn,John Cornyn,REP,source
+2008,SEN,Richard J. (Rick) Noriega,2008-SEN-noriega,Richard J. (Rick) Noriega,DEM,source
+2008,SEN,Yvonne Adams Schick,2008-SEN-schick,Yvonne Adams Schick,LIB,source
+2010,GOV,Rick Perry,2010-GOV-perry,Rick Perry,REP,source
+2010,GOV,Bill White,2010-GOV-white,Bill White,DEM,source
+2010,GOV,Kathie Glass,2010-GOV-glass,Kathie Glass,LIB,source
+2010,GOV,Deb Shafto,2010-GOV-shafto,Deb Shafto,GRN,source
+2010,GOV,Andy Barron,2010-GOV-barron,Andy Barron,WRI,source
+2012,PRES,Mitt Romney / Paul Ryan,2012-PRES-romney,Mitt Romney / Paul Ryan,REP,source
+2012,PRES,Barack Obama / Joe Biden,2012-PRES-obama,Barack Obama / Joe Biden,DEM,source
+2012,PRES,Gary Johnson / Jim Gray,2012-PRES-johnson,Gary Johnson / Jim Gray,LIB,source
+2012,PRES,Jill Stein / Cheri Honkala,2012-PRES-stein,Jill Stein / Cheri Honkala,GRN,source
+2012,PRES,Virgil Goode / Jim Clymer,2012-PRES-goode,Virgil Goode / Jim Clymer,WRI,source
+2012,PRES,Rocky Anderson / Luis J. Rodriguez,2012-PRES-anderson,Rocky Anderson / Luis J. Rodriguez,WRI,source
+2012,PRES,Tom Hoefling / Jonathan D. Ellis,2012-PRES-hoefling,Tom Hoefling / Jonathan D. Ellis,WRI,source
+2012,PRES,Avery Ayers / Alejandrina Cabrera,2012-PRES-ayers,Avery Ayers / Alejandrina Cabrera,WRI,source
+2012,PRES,Stewart Alexander / Alex Mendoza,2012-PRES-alexander,Stewart Alexander / Alex Mendoza,WRI,source
+2012,PRES,Thaddaus Hill / Gordon F. Bailey,2012-PRES-hill,Thaddaus Hill / Gordon F. Bailey,WRI,source
+2012,PRES,Andre N. Barnett / Kenneth R. Cross,2012-PRES-barnett,Andre N. Barnett / Kenneth R. Cross,WRI,source
+2012,SEN,Ted Cruz,2012-SEN-cruz,Ted Cruz,REP,source
+2012,SEN,Paul Sadler,2012-SEN-sadler,Paul Sadler,DEM,source
+2012,SEN,John Jay Myers,2012-SEN-myers,John Jay Myers,LIB,source
+2012,SEN,David B. Collins,2012-SEN-collins,David B. Collins,GRN,source
+2014,SEN,John Cornyn,2014-SEN-cornyn,John Cornyn,REP,source
+2014,SEN,David M. Alameel,2014-SEN-alameel,David M. Alameel,DEM,source
+2014,SEN,Rebecca Paddock,2014-SEN-paddock,Rebecca Paddock,LIB,source
+2014,SEN,"Emily ""Spicybrown"" Sanchez",2014-SEN-sanchez,"Emily ""Spicybrown"" Sanchez",GRN,source
+2014,SEN,Mohammed Tahiro,2014-SEN-tahiro,Mohammed Tahiro,WRI,source
+2014,GOV,Greg Abbott,2014-GOV-abbott,Greg Abbott,REP,source
+2014,GOV,Wendy R. Davis,2014-GOV-davis,Wendy R. Davis,DEM,source
+2014,GOV,Kathie Glass,2014-GOV-glass,Kathie Glass,LIB,source
+2014,GOV,Brandon Parmer,2014-GOV-parmer,Brandon Parmer,GRN,source
+2014,GOV,Sarah M. Pavitt,2014-GOV-pavitt,Sarah M. Pavitt,WRI,source
+2016,PRES,Donald J. Trump / Mike Pence,2016-PRES-trump,Donald J. Trump / Mike Pence,REP,source
+2016,PRES,Hillary Clinton / Tim Kaine,2016-PRES-clinton,Hillary Clinton / Tim Kaine,DEM,source
+2016,PRES,Gary Johnson / William Weld,2016-PRES-johnson,Gary Johnson / William Weld,LIB,source
+2016,PRES,Jill Stein / Ajamu Baraka,2016-PRES-stein,Jill Stein / Ajamu Baraka,GRN,source
+2016,PRES,Evan McMullin / Nathan Johnson,2016-PRES-mcmullin,Evan McMullin / Nathan Johnson,WRI,source
+2016,PRES,Darrell L. Castle / Scott N. Bradley,2016-PRES-castle,Darrell L. Castle / Scott N. Bradley,WRI,source
+2016,PRES,Michael A. Maturen / Juan A. Munoz,2016-PRES-maturen,Michael A. Maturen / Juan A. Munoz,WRI,source
+2016,PRES,Laurence Kotlikoff / Edward Leamer,2016-PRES-kotlikoff,Laurence Kotlikoff / Edward Leamer,WRI,source
+2016,PRES,Tom Hoefling / Steve Schulin,2016-PRES-hoefling,Tom Hoefling / Steve Schulin,WRI,source
+2016,PRES,Tony Valdivia / Aaron Barriere,2016-PRES-valdivia,Tony Valdivia / Aaron Barriere,WRI,source
+2016,PRES,Scott Cubbler / Michael Rodriguez,2016-PRES-cubbler,Scott Cubbler / Michael Rodriguez,WRI,source
+2016,PRES,Robert Morrow / Todd Sanders,2016-PRES-morrow,Robert Morrow / Todd Sanders,WRI,source
+2016,PRES,Monica Moorehead / Lamont Lilly,2016-PRES-moorehead,Monica Moorehead / Lamont Lilly,WRI,source
+2016,PRES,Emidio Soltysik / Angela Walker,2016-PRES-soltysik,Emidio Soltysik / Angela Walker,WRI,source
+2016,PRES,Dale Steffes / Paul E. Case,2016-PRES-steffes,Dale Steffes / Paul E. Case,WRI,source
+2016,PRES,Jonathan Lee / Jeffrey Erskine,2016-PRES-lee,Jonathan Lee / Jeffrey Erskine,WRI,source
+2016,PRES,Cherunda Fox / Roger Kushner,2016-PRES-fox,Cherunda Fox / Roger Kushner,WRI,source
+2018,SEN,Ted Cruz,2018-SEN-cruz,Ted Cruz,REP,source
+2018,SEN,Beto O'Rourke,2018-SEN-orourke,Beto O'Rourke,DEM,source
+2018,SEN,Neal M. Dikeman,2018-SEN-dikeman,Neal M. Dikeman,LIB,source
+2018,GOV,Greg Abbott,2018-GOV-abbott,Greg Abbott,REP,source
+2018,GOV,Lupe Valdez,2018-GOV-valdez,Lupe Valdez,DEM,source
+2018,GOV,Mark Jay Tippetts,2018-GOV-tippetts,Mark Jay Tippetts,LIB,source
+2020,PRES,DONALD J. TRUMP/MICHAEL R. PENCE,2020-PRES-trump,Donald J. Trump / Michael R. Pence,REP,openelections (100.0% of labeled votes)
+2020,PRES,JOSEPH R. BIDEN/KAMALA D. HARRIS,2020-PRES-biden,Joseph R. Biden / Kamala D. Harris,DEM,openelections (100.0% of labeled votes)
+2020,PRES,"JO JORGENSEN/JEREMY ""SPIKE"" COHEN",2020-PRES-jorgensen,"Jo Jorgensen / Jeremy ""Spike"" Cohen",LIB,openelections (100.0% of labeled votes)
+2020,PRES,HOWIE HAWKINS/ANGELA WALKER,2020-PRES-hawkins,Howie Hawkins / Angela Walker,GRN,openelections (100.0% of labeled votes)
+2020,PRES,BRIAN CARROLL/AMAR PATEL,2020-PRES-carroll,Brian Carroll / Amar Patel,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,PRESIDENT R. BODDIE/ERIC C. STONEHAM,2020-PRES-boddie,President R. Boddie / Eric C. Stoneham,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,GLORIA LA RIVA/LEONARD PELTIER,2020-PRES-riva,Gloria La Riva / Leonard Peltier,WRI,openelections (100.0% of labeled votes)
+2020,PRES,TOM HOEFLING/ANDY PRIOR,2020-PRES-hoefling,Tom Hoefling / Andy Prior,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,TODD CELLA/TIM CELLA,2020-PRES-cella,Todd Cella / Tim Cella,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,KASEY WELLS/RACHEL WELLS,2020-PRES-wells,Kasey Wells / Rachel Wells,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,ROBERT MORROW/ANNE BECKETT,2020-PRES-morrow,Robert Morrow / Anne Beckett,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,JESSE CUELLAR/JIMMY MONREAL,2020-PRES-cuellar,Jesse Cuellar / Jimmy Monreal,WRI,inferred write-in: no party label in OpenElections
+2020,PRES,ABRAM LOEB/JENNIFER JAIRALA,2020-PRES-loeb,Abram Loeb / Jennifer Jairala,WRI,inferred write-in: no party label in OpenElections
+2020,SEN,JOHN CORNYN,2020-SEN-cornyn,John Cornyn,REP,openelections (100.0% of labeled votes)
+2020,SEN,"MARY ""MJ"" HEGAR",2020-SEN-hegar,"Mary ""MJ"" Hegar",DEM,openelections (100.0% of labeled votes)
+2020,SEN,KERRY DOUGLAS MCKENNON,2020-SEN-mckennon,Kerry Douglas McKennon,LIB,openelections (100.0% of labeled votes)
+2020,SEN,DAVID B. COLLINS,2020-SEN-collins,David B. Collins,GRN,openelections (100.0% of labeled votes)
+2020,SEN,RICARDO TURULLOLS-BONILLA,2020-SEN-turullols-bonilla,Ricardo Turullols-Bonilla,WRI,inferred write-in: no party label in OpenElections
+2022,GOV,GREG ABBOTT,2022-GOV-abbott,Greg Abbott,REP,openelections (100.0% of labeled votes)
+2022,GOV,BETO O'ROURKE,2022-GOV-orourke,Beto O'Rourke,DEM,openelections (100.0% of labeled votes)
+2022,GOV,MARK TIPPETTS,2022-GOV-tippetts,Mark Tippetts,LIB,openelections (100.0% of labeled votes)
+2022,GOV,DELILAH BARRIOS,2022-GOV-barrios,Delilah Barrios,GRN,openelections (100.0% of labeled votes)
+2022,GOV,JACQUELINE ABERNATHY,2022-GOV-abernathy,Jacqueline Abernathy,WRI,manual: declared write-in (2022 TX Gov ballot listed only Abbott/O'Rourke/Tippetts/Barrios); OE label ASP is party affiliation
+2022,GOV,MARK V GOLOBY,2022-GOV-goloby,Mark V Goloby,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,DONALD J. TRUMP/JD VANCE,2024-PRES-trump,Donald J. Trump / JD Vance,REP,openelections (100.0% of labeled votes)
+2024,PRES,KAMALA D. HARRIS/TIM WALZ,2024-PRES-harris,Kamala D. Harris / Tim Walz,DEM,openelections (100.0% of labeled votes)
+2024,PRES,JILL STEIN/RUDOLPH WARE,2024-PRES-stein,Jill Stein / Rudolph Ware,GRN,openelections (100.0% of labeled votes)
+2024,PRES,CHASE OLIVER/MIKE TER MAAT,2024-PRES-oliver,Chase Oliver / Mike Ter Maat,LIB,openelections (100.0% of labeled votes)
+2024,PRES,PETER SONSKI/LAUREN ONAK,2024-PRES-sonski,Peter Sonski / Lauren Onak,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,CLAUDIA DE LA CRUZ/KARINA GARCIA,2024-PRES-cruz,Claudia De La Cruz / Karina Garcia,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,CORNEL WEST/MELINA ABDULLAH,2024-PRES-west,Cornel West / Melina Abdullah,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,SHIVA AYYADURAI/CRYSTAL ELLIS,2024-PRES-ayyadurai,Shiva Ayyadurai / Crystal Ellis,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,JESSIE CUELLAR/WESLEY LASLEY,2024-PRES-cuellar,Jessie Cuellar / Wesley Lasley,WRI,inferred write-in: no party label in OpenElections
+2024,PRES,CHERUNDA FOX/HARLAN MCVAY,2024-PRES-fox,Cherunda Fox / Harlan McVay,WRI,inferred write-in: no party label in OpenElections
+2024,SEN,TED CRUZ,2024-SEN-cruz,Ted Cruz,REP,openelections (100.0% of labeled votes)
+2024,SEN,COLIN ALLRED,2024-SEN-allred,Colin Allred,DEM,openelections (100.0% of labeled votes)
+2024,SEN,TED BROWN,2024-SEN-brown,Ted Brown,LIB,openelections (100.0% of labeled votes)
+2024,SEN,ANALISA ROCHE,2024-SEN-roche,Analisa Roche,WRI,inferred write-in: no party label in OpenElections
+2024,SEN,TRACY ANDRUS,2024-SEN-andrus,Tracy Andrus,WRI,inferred write-in: no party label in OpenElections
+2026,SEN,James Talarico,2026-SEN-talarico,James Talarico,DEM,manual: DDHQ file has no party column; ballot parties of the 2026 TX Senate nominees
+2026,SEN,Ken Paxton,2026-SEN-paxton,Ken Paxton,REP,manual: DDHQ file has no party column; ballot parties of the 2026 TX Senate nominees
+2026,SEN,Ted Brown,2026-SEN-brown,Ted Brown,LIB,manual: DDHQ file has no party column; ballot parties of the 2026 TX Senate nominees
